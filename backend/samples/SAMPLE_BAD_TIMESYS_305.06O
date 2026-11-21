@@ -1,0 +1,16 @@
+3.05                O                   M                   RINEX VERSION / TYPE
+SAMPLE00                                                    MARKER NAME         
+R-00001                                                     MARKER NUMBER       
+RCV-001         TRIMBLE ALLOY          5.4.2                REC # / TYPE / VERS 
+ANT-001         TRM57971.00 NONE                            ANT # / TYPE        
+  3872345.6789  1023456.1234  4936234.5678                  APPROX POSITION XYZ 
+        0.0000        0.0000        0.0000                  ANTENNA: DELTA H/E/N
+G  16 C1C L1C D1C S1C C1W L1W D1W S1W C2W L2W D2W S2W C2L   SYS / # / OBS TYPES 
+      L2L D2L S2L                                           SYS / # / OBS TYPES 
+R   8 C1C L1C D1C C2C L2C D2C C2P L2P                       SYS / # / OBS TYPES 
+E  13 C1C L1C D1C S1C C6A L6A D6A S6A C7I L7I D7I S7I C8X   SYS / # / OBS TYPES 
+C   6 C1I L1I D1I S1I C7I L7I                               SYS / # / OBS TYPES 
+  2026    11    22     0     0    0.0000000     FOO         TIME OF FIRST OBS   
+                                                            END OF HEADER       
+> 2026 11 22 00 00  0.0000000  0  1
+G01     20123.456       20123.466       20123.476       20123.486       20123.496       20123.506       20123.516       20123.526       20123.536       20123.546       20123.556       20123.566       20123.576       20123.586       20123.596       20123.606  

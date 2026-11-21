@@ -5,6 +5,9 @@
 node_modules/
 .venv/
 __pycache__/
+.npm-cache/
+backend/static/
+.pytest_cache/
 .claude/
 .cc-workbench/
 .next/
